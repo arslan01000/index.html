@@ -60,12 +60,12 @@
         <h1>Minimalistic Website</h1>
     </header>
     <main>
-        <h2>Welcome to Your Cool Minimalistic Website</h2>
+        <h2>Welcome to My Basic and Minimalistic Website</h2>
         <p>This is an example of a simple and clean design.<br> 
-           Feel free to <a href="#">explore more</a> and customize it as you like.</p>
+           Feel free to <a href="https://github.com/arslan01000">explore more</a> and customize it as you like.</p>
     </main>
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Arslan Atakhanov. All rights reserved.</p>
     </footer>
 </body>
 </html>
